@@ -19,13 +19,13 @@
 					"default": "Enter The VPC Name Here."
 				},
 				"Subnet1Name":{
-					"default": "Enter The Subnet-1 Name Here."
+					"default": "Enter The Subnet-1 name here."
 				},
 				"Subnet2Name":{
-					"default": "Enter The Subnet-2 Name Here."
+					"default": "Enter The Subnet-2 name here."
 				},
 				"Subnet3Name":{
-					"default": "Enter The Subnet-3 Name Here."
+					"default": "Enter The Subnet-3 name here."
 				},
 				"PublicSubnet1CIDR": {
 					"default": "Enter CIDR of the public subnet"
